@@ -1,0 +1,8 @@
+{
+    "host" : "management-tutorial.cw2dhczfekqa.ap-northeast-2.rds.amazonaws.com",
+    "user" : "user",
+    "password" : "xogml1705",
+    "port" : "3306",
+    "database" : "management"
+
+}
